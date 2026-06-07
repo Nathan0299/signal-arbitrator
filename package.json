@@ -21,6 +21,9 @@
   ],
   "author": "Obsidian OS Team",
   "license": "Apache-2.0",
+  "files": [
+    "dist"
+  ],
   "dependencies": {},
   "devDependencies": {
     "@types/node": "^25.9.1",
