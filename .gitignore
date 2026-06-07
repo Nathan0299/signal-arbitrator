@@ -12,3 +12,6 @@ Thumbs.db
 # Environment and secrets
 .env
 .env.*
+
+# Local sales and outreach assets
+sales_assets/
